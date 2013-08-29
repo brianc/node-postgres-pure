@@ -1,3 +1,3 @@
 [submodule "pg"]
 	path = pg
-	url = git://github.com/brianc/node-postgres
+	url = https://github.com/brianc/node-postgres.git
