@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "make install"
+    "prepublish": "make"
   },
   "author": "Brian M. Carlson",
   "license": "MIT",
