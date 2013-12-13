@@ -1,6 +1,6 @@
 {
   "name": "pg.js",
-  "version": "2.8.2",
+  "version": "2.8.3",
   "description": "node-postgres without the bindings",
   "main": "index.js",
   "scripts": {
