@@ -10,7 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "generic-pool": "~2.0.4",
-    "buffer-writer": "~1.0.0"
+    "buffer-writer": "~1.0.0",
+    "pgpass": "0.0.1"
   },
   "devDependencies": {
     "mocha": "~1.12.0"
