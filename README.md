@@ -5,7 +5,7 @@ The exact same node-postgres module without any of the C/C++ stuff. If you're ju
 
 ## DEPRECATED
 
-node-postgres has been updated to make the native compilation and bindings an optional install. Sooo....this `pg.js` module is redundant - it's literally the exact same code as node-postgres now, so you should go install that instead. :smile:
+node-postgres has been updated to make [the native bindings & compile step an optional install](https://github.com/brianc/node-postgres#native-bindings). Sooo....this `pg.js` module is redundant - it's literally the exact same code as node-postgres now, so you should go install that instead. :smile:
 
 There's no work involved in switching other than changing `pg.js` -> `pg` in your package.json and in your code whenever you `require('pg.js')` -> `require('pg')`. :thumbsup:
 
